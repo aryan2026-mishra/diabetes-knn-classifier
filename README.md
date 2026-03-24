@@ -166,9 +166,9 @@ python src/knn_diabetes.py
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+**Aryan Mishra**
+- GitHub: [@ARYAN MISHRA]([https://github.com/YOUR_USERNAME](https://github.com/aryan2026-mishra))
+- LinkedIn: [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aryan-mishra-61561b298/))
 
 ---
 
