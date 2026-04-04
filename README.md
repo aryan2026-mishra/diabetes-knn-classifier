@@ -167,8 +167,6 @@ python src/knn_diabetes.py
 ## 👤 Author
 
 **Aryan Mishra**
-- GitHub: [@ARYAN MISHRA]([https://github.com/aryan2026-mishra])
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/aryan-mishra-61561b298/])
 
 ---
 
